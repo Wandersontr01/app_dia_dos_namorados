@@ -19,7 +19,6 @@
 - ❤️ Animação de corações flutuantes na finalização
 - 📸 Carrossel de fotos na tela final com música de fundo
 - 🎁 Mensagem final com declaração de amor
-- 📱 Compatível com dispositivos Android (arquivo .apk gerado)
 
 ---
 
